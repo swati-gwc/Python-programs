@@ -1,4 +1,6 @@
 # Python programs
+>This repository is new and under construction. Slowly I will add programs into it.
+
 This is my personal repository where I add notes I want to remember or python programs that I practise. 
 
 ### Index / List of Programs
