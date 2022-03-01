@@ -14,6 +14,10 @@ This is my personal repository where I add notes I want to remember or python pr
 1. `pip list` displays a list of installed package names and version numbers.
 2. `pip show <package-name>` to display detailed information about a specific package.
 
+### conda related
+
+1. `conda install -c conda-forge <package-name>` : Use this command to install package in anaconda or Jupyter Notebook which does not get installed from simple conda install command.
+
 ### My Favourite Python repositories on GitHub
 1. [Python Mini Projects](https://github.com/Python-World/python-mini-projects)
 
