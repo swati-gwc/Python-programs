@@ -17,6 +17,11 @@ This is my personal repository where I add notes I want to remember or python pr
 ### conda related
 
 1. `conda install -c conda-forge <package-name>` : Use this command to install package in anaconda or Jupyter Notebook which does not get installed from simple conda install command.
+2. If you want to install a specific package inside a specific conda environment, you can use the following command.
+First activate the conda environment and then do:
+`$ conda install --name <conda_env_name> -c <channel_name> <package_name>`
+3. To see all the environment created in anaconda `conda env list`
+4. To switch to another environment (say name is tensor_env)  in anaconda prompt : `conda activate tensor_env`
 
 ### My Favourite Python repositories on GitHub
 1. [Python Mini Projects](https://github.com/Python-World/python-mini-projects)
